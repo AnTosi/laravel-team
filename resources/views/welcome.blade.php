@@ -81,7 +81,7 @@
             @endauth
         </div>
         @endif
-
+        
         <div class="content">
             <div class="extitle">
                 <h4>CIAO SONO IL PIU' GIOVANE</h4>
