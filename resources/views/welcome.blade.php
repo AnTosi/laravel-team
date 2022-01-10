@@ -61,6 +61,10 @@
             .m-b-md {
                 margin-bottom: 30px;
             }
+
+            .red-text {
+                color: red;
+            }
         </style>
     </head>
     <body>
@@ -83,6 +87,11 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+
+
+                <p class="red-text">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum dolorum fuga, est quam itaque natus vel beatae amet adipisci reprehenderit.
+                </p>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
